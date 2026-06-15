@@ -1,0 +1,36 @@
+@media (min-width: 481px) and (max-width: 768px) {
+
+  #main-menu.navbar-default .navbar-nav > li > a {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      font-size: 18px;
+      font-weight: 300;
+      border-bottom: 1px dotted #ccc;
+  } 
+
+  .table-responsive {
+      border: none;
+  }
+
+
+  .info-obiekt h4 {
+      text-align: left; 
+      padding: 4px 0px 6px 12px; 
+    
+  }
+
+.mapa {
+    display: hidden;
+}
+
+
+}
+
+
+@media (min-width: 321px) and (max-width: 480px) {
+
+
+
+
+
+}
